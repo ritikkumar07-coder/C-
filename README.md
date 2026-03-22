@@ -40,7 +40,7 @@ All files are written in C++ and organized in a single folder:
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. Make sure you have a C++ compiler installed (like `g++`).
 2. Compile any file using:
