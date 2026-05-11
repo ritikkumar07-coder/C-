@@ -6,7 +6,7 @@ This repository contains 29 C++ programs demonstrating core programming concepts
 
 This repository contains a collection of **29 C++ programs** designed to demonstrate various programming concepts, data structures, and algorithms. It is ideal for beginners and intermediate learners who want to strengthen their understanding of C++.and
 
---..
+
 ##  Contents
 
 The repository includes programs related to:
@@ -88,6 +88,8 @@ Feel free to contribute by:
 ##  Author
 
 Created by **Ritik**
+
+You can thank me on other platform as well just visit my profile once...
 
 ---
 
